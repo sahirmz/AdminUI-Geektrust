@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tr:hover {
+  background-color: rgb(173, 216, 233);
+}
+
+table th,
+table td {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border: none;
+  text-align: left;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bg-gray {
+  background-color: #ececec;
+}
+
+.actionButton {
+  margin: 5px;
+}
+
+.custom-button {
+  background-color: rgb(235, 75, 75);
+  color: white;
+  padding: 8px;
+  margin: 5px;
+  margin-top: 10px;
+  border-radius: 50px;
+}
